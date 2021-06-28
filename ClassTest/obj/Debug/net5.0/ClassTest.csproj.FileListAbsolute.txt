@@ -1,0 +1,16 @@
+C:\Users\DEL\C#\ClassTest\ClassTest\bin\Debug\net5.0\ClassTest.exe
+C:\Users\DEL\C#\ClassTest\ClassTest\bin\Debug\net5.0\ClassTest.deps.json
+C:\Users\DEL\C#\ClassTest\ClassTest\bin\Debug\net5.0\ClassTest.runtimeconfig.json
+C:\Users\DEL\C#\ClassTest\ClassTest\bin\Debug\net5.0\ClassTest.runtimeconfig.dev.json
+C:\Users\DEL\C#\ClassTest\ClassTest\bin\Debug\net5.0\ClassTest.dll
+C:\Users\DEL\C#\ClassTest\ClassTest\bin\Debug\net5.0\ref\ClassTest.dll
+C:\Users\DEL\C#\ClassTest\ClassTest\bin\Debug\net5.0\ClassTest.pdb
+C:\Users\DEL\C#\ClassTest\ClassTest\obj\Debug\net5.0\ClassTest.csproj.AssemblyReference.cache
+C:\Users\DEL\C#\ClassTest\ClassTest\obj\Debug\net5.0\ClassTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEL\C#\ClassTest\ClassTest\obj\Debug\net5.0\ClassTest.AssemblyInfoInputs.cache
+C:\Users\DEL\C#\ClassTest\ClassTest\obj\Debug\net5.0\ClassTest.AssemblyInfo.cs
+C:\Users\DEL\C#\ClassTest\ClassTest\obj\Debug\net5.0\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\DEL\C#\ClassTest\ClassTest\obj\Debug\net5.0\ClassTest.dll
+C:\Users\DEL\C#\ClassTest\ClassTest\obj\Debug\net5.0\ref\ClassTest.dll
+C:\Users\DEL\C#\ClassTest\ClassTest\obj\Debug\net5.0\ClassTest.pdb
+C:\Users\DEL\C#\ClassTest\ClassTest\obj\Debug\net5.0\ClassTest.genruntimeconfig.cache
